@@ -16,7 +16,8 @@
     "nuxt": "^3.10.0",
     "nuxt-server-utils": "^0.0.7",
     "vue": "^3.4.15",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "zod": "^3.22.4"
   },
   "dependencies": {
     "@vueup/vue-quill": "^1.2.0",
